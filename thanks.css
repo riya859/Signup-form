@@ -1,0 +1,22 @@
+*
+{
+	background-color: #05022b;
+}
+body
+{
+	border: 30px solid #05a0b3;
+	border-top: 30px solid #05022b;
+	margin: 10px;
+}
+h2
+{
+	font-family: 'Bree Serif', serif;
+	color: white;
+	text-align: center; 
+}
+h3
+{
+	font-family: 'Bree Serif', serif;
+	color: white;
+	text-align: center; 
+}
